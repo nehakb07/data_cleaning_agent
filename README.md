@@ -73,7 +73,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 
 ### Start Streamlit
-streamlit run streamlit_app.py
+streamlit run app.py
 
 ### Place CSV files inside:
 data/raw/
